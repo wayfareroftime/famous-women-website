@@ -18,5 +18,3 @@
 ![](screenshots/authorization.png)
 
 ![](screenshots/adding_post.png)
-
-Ссылка: http://ntsiseq9.beget.tech/
