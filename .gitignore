@@ -5,3 +5,7 @@ db.sqlite3
 static/
 .DS_Store
 coolsite_cache/
+.coveragerc
+htmlcov/
+requirements.txt
+.coverage

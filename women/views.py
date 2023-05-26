@@ -75,7 +75,6 @@ class ContactFormView(DataMixin, FormView):
         return context | c_def
 
     def form_valid(self, form):
-        print(form.cleaned_data)
         return redirect('home')
 
 
